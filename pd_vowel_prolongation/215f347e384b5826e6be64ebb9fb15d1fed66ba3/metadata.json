@@ -1,0 +1,48 @@
+{
+    "fileID": "215f347e384b5826e6be64ebb9fb15d1fed66ba3",
+    "annotatorID": "7a2faf9ec3b0cbe1fac21196fedbfb07a05e2d0e",
+    "features": [
+        {
+            "feature": "unsteady",
+            "highConfidence": true,
+            "score": 1.0,
+            "abnormal": 0.0,
+            "fineRating": 0.5
+        },
+        {
+            "feature": "strained",
+            "highConfidence": true,
+            "score": 1.0,
+            "abnormal": 0.0,
+            "fineRating": 0.5
+        },
+        {
+            "feature": "loudness decay",
+            "highConfidence": true,
+            "score": 2.0,
+            "abnormal": 1.0,
+            "fineRating": 0.5
+        },
+        {
+            "feature": "breathy",
+            "highConfidence": true,
+            "score": 1.0,
+            "abnormal": 0.0,
+            "fineRating": 0.5
+        },
+        {
+            "feature": "tremor",
+            "highConfidence": true,
+            "score": 1.0,
+            "abnormal": 0.0,
+            "fineRating": 0.5
+        },
+        {
+            "feature": "flutter",
+            "highConfidence": true,
+            "score": 1.0,
+            "abnormal": 0.0,
+            "fineRating": 0.5
+        }
+    ]
+}
