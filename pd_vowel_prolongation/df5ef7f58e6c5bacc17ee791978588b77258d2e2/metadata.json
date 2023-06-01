@@ -1,48 +1,50 @@
 {
     "fileID": "df5ef7f58e6c5bacc17ee791978588b77258d2e2",
-    "annotatorID": "7a2faf9ec3b0cbe1fac21196fedbfb07a05e2d0e",
+    "annotatorID": "75e10268-9766-4bda-a9f3-263b6a4f8d06",
+    "speakerID": "6f0f577a88a0227a7c7a78bd525cfbd9",
+    "task": "Vowel Prolongation",
     "features": [
         {
-            "feature": "unsteady",
-            "highConfidence": true,
-            "score": 2.0,
-            "abnormal": 1.0,
-            "fineRating": 0.5
+            "name": "unsteady",
+            "high_confidence": true,
+            "score": 2,
+            "abnormal": 1,
+            "fine_rating": 0.4
         },
         {
-            "feature": "strained",
-            "highConfidence": true,
-            "score": 1.0,
-            "abnormal": 0.0,
-            "fineRating": 0.5
+            "name": "strained",
+            "high_confidence": true,
+            "score": 1,
+            "abnormal": 0,
+            "fine_rating": 0.0
         },
         {
-            "feature": "loudness decay",
-            "highConfidence": true,
-            "score": 1.0,
-            "abnormal": 0.0,
-            "fineRating": 0.5
+            "name": "loudness decay",
+            "high_confidence": true,
+            "score": 1,
+            "abnormal": 0,
+            "fine_rating": 0.0
         },
         {
-            "feature": "breathy",
-            "highConfidence": true,
-            "score": 1.0,
-            "abnormal": 0.0,
-            "fineRating": 0.5
+            "name": "breathy",
+            "high_confidence": true,
+            "score": 1,
+            "abnormal": 0,
+            "fine_rating": 0.0
         },
         {
-            "feature": "tremor",
-            "highConfidence": true,
-            "score": 1.0,
-            "abnormal": 0.0,
-            "fineRating": 0.5
+            "name": "tremor",
+            "high_confidence": true,
+            "score": 1,
+            "abnormal": 0,
+            "fine_rating": 0.0
         },
         {
-            "feature": "flutter",
-            "highConfidence": true,
-            "score": 1.0,
-            "abnormal": 0.0,
-            "fineRating": 0.5
+            "name": "flutter",
+            "high_confidence": true,
+            "score": 1,
+            "abnormal": 0,
+            "fine_rating": 0.0
         }
     ]
 }
