@@ -6,42 +6,42 @@
     "features": [
         {
             "feature": "unsteady",
-            "high_confidence": true,
+            "highconfidence": true,
             "score": 2,
             "abnormal": 1,
             "fine_rating": 0.4
         },
         {
             "feature": "strained",
-            "high_confidence": true,
+            "highconfidence": true,
             "score": 2,
             "abnormal": 1,
             "fine_rating": 0.4
         },
         {
             "feature": "loudness decay",
-            "high_confidence": true,
+            "highconfidence": true,
             "score": 1,
             "abnormal": 0,
             "fine_rating": 0.0
         },
         {
             "feature": "breathy",
-            "high_confidence": true,
+            "highconfidence": true,
             "score": 1,
             "abnormal": 0,
             "fine_rating": 0.0
         },
         {
             "feature": "tremor",
-            "high_confidence": true,
+            "highconfidence": true,
             "score": 2,
             "abnormal": 1,
             "fine_rating": 0.4
         },
         {
             "feature": "flutter",
-            "high_confidence": true,
+            "highconfidence": true,
             "score": 1,
             "abnormal": 0,
             "fine_rating": 0.0
