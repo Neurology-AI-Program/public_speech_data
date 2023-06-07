@@ -5,42 +5,42 @@
     "task": "Vowel Prolongation",
     "features": [
         {
-            "name": "unsteady",
+            "feature": "unsteady",
             "high_confidence": true,
             "score": 2,
             "abnormal": 1,
             "fine_rating": 0.4
         },
         {
-            "name": "strained",
+            "feature": "strained",
             "high_confidence": true,
             "score": 2,
             "abnormal": 1,
             "fine_rating": 0.4
         },
         {
-            "name": "loudness decay",
+            "feature": "loudness decay",
             "high_confidence": true,
             "score": 2,
             "abnormal": 1,
             "fine_rating": 0.4
         },
         {
-            "name": "breathy",
+            "feature": "breathy",
             "high_confidence": true,
             "score": 1,
             "abnormal": 0,
             "fine_rating": 0.0
         },
         {
-            "name": "tremor",
+            "feature": "tremor",
             "high_confidence": true,
             "score": 2,
             "abnormal": 1,
             "fine_rating": 0.4
         },
         {
-            "name": "flutter",
+            "feature": "flutter",
             "high_confidence": true,
             "score": 2,
             "abnormal": 1,
